@@ -1,0 +1,4 @@
+
+
+class VoidSheetError(Exception):
+    pass
