@@ -1,5 +1,5 @@
 import pandas as pd
-from 示范区预测系统.errors import VoidSheetError
+from errors import VoidSheetError
 
 
 def load_sheet(file_path='datas\所用数据.xlsx'):
